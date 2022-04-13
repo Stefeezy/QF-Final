@@ -1,5 +1,5 @@
-# QF-FinalCancel changes
-Quantitative Finance Projects
+# QF-Final 
+Quantitative Finance Project
 
 This was my submission for a Quantitative Finance Final Project from my Fall 2021 semester. A Capstone course. 
 
