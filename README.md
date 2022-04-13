@@ -10,6 +10,6 @@ The file is in .ipynb format, so opening with anything compatible is reccommende
 This was written in Jupyter Lab, so I reccomend it. My professor convinced me of its usefulness for data oriented tasks. 
 I've commented in each cell, highlighting the process going on. 
 
-The code is definitely not perfect, but it and other submissions throughout the course secured my an A+. 
+The code is definitely not perfect, but it runs. It and other submissions throughout the course secured me an A+, put I know I could have done better. 
 It was one of my first times working with matplotlib and pandas.
 
